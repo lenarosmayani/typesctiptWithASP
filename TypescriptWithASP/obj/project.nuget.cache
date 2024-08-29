@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cmy1gk2iz+o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\TypescriptWithASP\\TypescriptWithASP\\TypescriptWithASP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.typescript.msbuild\\5.5.3\\microsoft.typescript.msbuild.5.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
